@@ -4,7 +4,7 @@
 
 Bok is a live deals platform for local Asian grocers in Melbourne. Shoppers can photograph a price tag in-store, and the AI pipeline extracts the product, price, and discount — in any language — and puts it on a searchable, map-based feed for everyone nearby.
 
-Built at **BassHacks 2026 (Bass × EY Hackathon)** by Luca Xu, Roy Zhang, Darren Ma, and Sam Gomulya.
+Built at **BassHacks 2026 (Bass × EY Hackathon)**
 
 ---
 
